@@ -1,6 +1,2 @@
 # BirthDayOfWeek
-<object data="https://github.com/cueballify/BirthDayOfWeek/blob/master/src/birthdayofweek/Birth-Day%20of%20Week.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/cueballify/BirthDayOfWeek/blob/master/src/birthdayofweek/Birth-Day%20of%20Week.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTePFw7saTRHSB0gEZgM5e4lbDsBTodK9qRbDjY5N7j8HITM_i3Qmax92b4Tn4tXDuwfpuSYs2ypkQd/pub?embedded=true"></iframe>
