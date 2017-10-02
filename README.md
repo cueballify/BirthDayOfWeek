@@ -1,2 +1,3 @@
 # BirthDayOfWeek
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTePFw7saTRHSB0gEZgM5e4lbDsBTodK9qRbDjY5N7j8HITM_i3Qmax92b4Tn4tXDuwfpuSYs2ypkQd/pub?embedded=true"></iframe>
+
+<img src="https://github.com/cueballify/BirthDayOfWeek/blob/master/src/birthdayofweek/Birth-Day%20of%20Week.pdf" alt="some text"  width="4200" height="4200">
